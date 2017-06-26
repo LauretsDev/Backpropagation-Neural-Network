@@ -1,2 +1,2 @@
 # Backpropagation-Neural-Network
-Neural Network using Backpropagation
+Neural Network using Backpropagation for AI
